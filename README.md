@@ -10,3 +10,5 @@
     OBS
 ### Name of IDE
     Visual Studio Code
+
+This site was built using [GitHub Pages](https://pages.github.com/).
