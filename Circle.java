@@ -1,7 +1,6 @@
-# Circle.java
-
 import java.util.Scanner;
 import javax.script.ScriptContext;
+
 public class CircleArea
 {
 public static void main(String[] args)
